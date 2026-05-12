@@ -1,7 +1,8 @@
 # Sales-Performance-Dashboard-Task1
 
 **Executive Sales and Revenue Dashboard**  
-**Project for Thiranex Internship - Task 1**
+**Organization:** Thiranex Internship Program  
+**Task Description:** Data Analysis and Visualization (Task 1)
 
 **Project Overview**
 This project involves building an interactive Excel dashboard to analyze the Global Superstore dataset. The dashboard provides a high-level view of revenue trends and product performance to assist in data-driven decision-making.
